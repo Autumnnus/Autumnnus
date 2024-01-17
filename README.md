@@ -11,37 +11,39 @@
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently, I am specializing in react and react native and developing projects about it.
+* 💻 Currently, I am specializing in React, Next.JS, and Flutter and developing projects about it.
 
 ### 🖥️ Open-Source Projects
-<table>
-<tr><th>React-Redux Toolkit Projects </th></tr>
-<tr><td>
+#### <p align="center">React-Redux Toolkit Projects</p>
+| **Title** | **Description** | **Technologies** | **Demo Links** |
+| --- | --- | --- | --- |
+| [Javascript Methods](https://github.com/VectortheGreat/Javascript-Methods) | Practical use JS Methods | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=blue) ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript&logoColor=blue) ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=purple) | [Demo](https://javascriptmethods.netlify.app) |
+| [My Games](https://github.com/VectortheGreat/Flight-app) | A website where players can store their game data | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=blue) ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=purple) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase&logoColor=orange) | [Demo](https://my-games.netlify.app/) |
+| [Whatsapp Clone](https://github.com/VectortheGreat/Whatsapp-Clone---React) | Whatsapp's Clone Project with Firebase Service. (Beta) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=blue) ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript&logoColor=blue) ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=purple) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase&logoColor=orange) | [Demo](https://whatsapp-clone-vector.netlify.app/) |
+| [DersiGo](https://github.com/VectortheGreat/Flight-app) | A user and post themed project with Dummy Api requests | ![Next JS](https://img.shields.io/badge/Next.Js-black?style=flat&logo=next.js&color=black) ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=blue) ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=purple) | [Demo](https:/dersigo.vercel.app) |
+| [Flight App](https://github.com/VectortheGreat/Flight-app) | Flight App with React.JS | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=blue) ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript&logoColor=blue) ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=purple) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase&logoColor=orange) | [No Demo](#) |
+| [Movie App](https://github.com/VectortheGreat/Movie-App-React-Redux) | Dynamically editing Movies and Movie information in JSON server | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=blue) ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=purple) ![JSON](https://img.shields.io/badge/JSON-black?style=flat-square&logo=json&logoColor=green) | [No Demo](#) |
+| [Product App](https://github.com/VectortheGreat/Product-App) | Similar to TODO app project but it is Product editing | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=blue) ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=purple) | [Demo](https://product-app-vector.netlify.app/) |
+| [E-Commerce](https://github.com/VectortheGreat/E-Commerce-React-Redux-) | E-commerce site that allows shopping with Fakestore Api | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=blue) ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=purple) | [Demo](https://e-commerce-vector-shop.netlify.app/) |
 
-|Title | Description | Technologies|
-|--|--|--|
-| [Whatsapp Clone](https://github.com/VectortheGreat/Whatsapp-Clone---React)|Whatsapp's Clone Project with Firebase Service. (Under progress) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=blue) ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript&logoColor=blue) ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=purple) ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase&logoColor=orange)|
-| [Movie App](https://github.com/VectortheGreat/Movie-App-React-Redux) |Dynamically editing Movies and Movie information in JSON server | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=blue) ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=purple) ![JSON](https://img.shields.io/badge/JSON-black?style=flat-square&logo=json&logoColor=green)|
-| [Product App](https://github.com/VectortheGreat/Product-App) |Similar to TODO app project but it is Product editing | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=blue) ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=purple)|
-| [E-Commerce](https://github.com/VectortheGreat/E-Commerce-React-Redux-) |E-commerce site that allows shopping with Fakestore Api | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=blue) ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=purple)|
-| [WeatherApp](https://github.com/VectortheGreat/WeatherApp-React) |WeatherApp with Api Services | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=blue) ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)|
-</table>
 
 <table>
 <tr><th>JavaScript Projects </th></tr>
 <tr><td>
   
-|Title | Description | Technologies|
-|--|--|--|
-| [Q&A Rest Api](https://github.com/VectortheGreat/Question-Answer-Rest-Api)|Basic Backend Project with Express JS and MongoDB | ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Express JS](https://img.shields.io/badge/ExpressJS-black?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=green)|
-| [Calcultaor](https://github.com/VectortheGreat/Calculator)|Detailed Calculator App with many functions| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)|
-| [Fast Localization Placement](https://github.com/VectortheGreat/Fast-Localization-Placement)|Program that quickly places localization files for PDX games| ![NodeJS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=node.js&logoColor=green)|
-| [PDX Modifier Multiplier](https://github.com/VectortheGreat/Fast-Localization-Placement)|Program that multiplies Modifiers for PDX games| ![NodeJS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=node.js&logoColor=green)|
-| [Github User Information](https://github.com/VectortheGreat/Github-User-Information)|Fetches Github User Informations| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)|
-| [Currency Converter](https://github.com/VectortheGreat/Currency-Converter)|Foreign exchange site that converts currencies worldwide| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)|
-| [Music Player](https://github.com/VectortheGreat/Music-Player)|Basic Music Player Website| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)|
-| [Country-Info](https://github.com/VectortheGreat/Country-Info)|Fetches Country Informations| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)|
-| [Quiz Website](https://github.com/VectortheGreat/Quiz-Website)|Basic Quiz Website| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)|
+| **Title** | **Description** | **Technologies** | **Demo Links** |
+| --- | --- | --- | --- |
+| [Q&A Rest Api](https://github.com/VectortheGreat/Question-Answer-Rest-Api)|Basic Backend Project with Express JS and MongoDB | ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Express JS](https://img.shields.io/badge/ExpressJS-black?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=green)| [No Demo](#/) |
+| [Calcultaor](https://github.com/VectortheGreat/Calculator)|Detailed Calculator App with many functions| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)| [Demo](https://calculator-project-vector.netlify.app/) |
+| [Fast Localization Placement](https://github.com/VectortheGreat/Fast-Localization-Placement)|Program that quickly places localization files for PDX games| ![NodeJS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=node.js&logoColor=green)| [No Demo](#/) |
+| [PDX Modifier Multiplier](https://github.com/VectortheGreat/Fast-Localization-Placement)|Program that multiplies Modifiers for PDX games| ![NodeJS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=node.js&logoColor=green)|  [No Demo](#/) |
+| [Github User Information](https://github.com/VectortheGreat/Github-User-Information)|Fetches Github User Informations| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)| [Demo](https://github-fetch-user-info-demo.netlify.app/) |
+| [Currency Converter](https://github.com/VectortheGreat/Currency-Converter)|Foreign exchange site that converts currencies worldwide| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)| [Demo](https://currency-project-vector.netlify.app/) |
+| [Music Player](https://github.com/VectortheGreat/Music-Player)|Basic Music Player Website| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)| [Demo](https://music-player-vector.netlify.app/) |
+| [Country-Info](https://github.com/VectortheGreat/Country-Info)|Fetches Country Informations| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)|[Demo](https://github.com/VectortheGreat/Country-Info) |
+| [Weather App](https://github.com/VectortheGreat/Weather-App)|Weather App with Api Service| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)|[Demo](https://weather-app-vector.netlify.app/) |
+| [Color Flipper](https://github.com/VectortheGreat/Color-Flipper)|Random Color Returns| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)|[Demo](https://color-flipper-vector.netlify.app/) |
+| [Quiz Website](https://github.com/VectortheGreat/Quiz-Website)|Basic Quiz Website| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)|[Demo](https://quiz-project-vector.netlify.app/) |
 
  </table>
 
@@ -50,9 +52,12 @@
 
 <summary>📈 Stats</summary>
 <br>
-My Github Stats
+# 📊 GitHub Stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VectorTheGreat&theme=dracula) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VectorTheGreat&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VectorTheGreat&theme=dracula)
+![VectorTheGreat's Stats](https://github-readme-stats.vercel.app/api?username=VectorTheGreat&theme=react&show_icons=true&hide_border=true&count_private=true)
+
+![VectorTheGreat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VectorTheGreat&theme=react&hide_border=true)
+
+![VectorTheGreat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VectorTheGreat&theme=react&show_icons=true&hide_border=true&layout=compact)
