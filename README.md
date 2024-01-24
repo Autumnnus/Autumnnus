@@ -27,9 +27,7 @@
 | [E-Commerce](https://github.com/VectortheGreat/E-Commerce-React-Redux-) | E-commerce site that allows shopping with Fakestore Api | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=blue) ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=purple) | [Demo](https://e-commerce-vector-shop.netlify.app/) |
 
 
-<table>
-<tr><th>JavaScript Projects </th></tr>
-<tr><td>
+#### <p align="center">Javascript Projects</p>
   
 | **Title** | **Description** | **Technologies** | **Demo Links** |
 | --- | --- | --- | --- |
@@ -45,19 +43,12 @@
 | [Color Flipper](https://github.com/VectortheGreat/Color-Flipper)|Random Color Returns| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)|[Demo](https://color-flipper-vector.netlify.app/) |
 | [Quiz Website](https://github.com/VectortheGreat/Quiz-Website)|Basic Quiz Website| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)|[Demo](https://quiz-project-vector.netlify.app/) |
 
- </table>
 
 
 
+<summary>📊 GitHub Stats:</summary>
 
-<summary>📈 Stats</summary>
-<br>
-# 📊 GitHub Stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VectorTheGreat&theme=dracula) 
-
-![VectorTheGreat's Stats](https://github-readme-stats.vercel.app/api?username=VectorTheGreat&theme=react&show_icons=true&hide_border=true&count_private=true)
-
-![VectorTheGreat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VectorTheGreat&theme=react&hide_border=true)
-
-![VectorTheGreat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VectorTheGreat&theme=react&show_icons=true&hide_border=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VectorTheGreat&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VectorTheGreat&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VectorTheGreat&theme=onedark)
