@@ -7,11 +7,11 @@
 
 * 👋 Welcome to my GitHub profile! I am a Front-end Web Developer.
 
-* 📖 I specialize in HTML, CSS, JavaScript, Typescript, and C#, and have experience working with a variety of frameworks and databases.
+* 📖 I specialize in HTML, CSS, JavaScript, Typescript, React, Redux, and ExpressJS, and have experience working with a variety of frameworks and databases.
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently, I am specializing in React, Next.JS, and Flutter and developing projects about it.
+* 💻 Currently, I am specializing in React, Next.JS, and ExpressJS and developing projects about it.
 
 ### 🖥️ Open-Source Projects
 #### <p align="center">React-Redux Toolkit Projects</p>
@@ -39,14 +39,13 @@
   
 | **Title** | **Description** | **Technologies** | **Demo Links** |
 | --- | --- | --- | --- |
-| [Q&A Rest Api](https://github.com/VectortheGreat/Question-Answer-Rest-Api)|Basic Backend Project with Express JS and MongoDB | ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Express JS](https://img.shields.io/badge/ExpressJS-black?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=green)| No Demo |
 | [Calcultaor](https://github.com/VectortheGreat/Calculator)|Detailed Calculator App with many functions| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)| [Demo](https://calculator-project-vector.netlify.app/) |
 | [Fast Localization Placement](https://github.com/VectortheGreat/Fast-Localization-Placement)|Program that quickly places localization files for PDX games| ![NodeJS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=node.js&logoColor=green)| No Demo |
-| [PDX Modifier Multiplier](https://github.com/VectortheGreat/Fast-Localization-Placement)|Program that multiplies Modifiers for PDX games| ![NodeJS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=node.js&logoColor=green)|  No Demo |
+| [PDX Modifier Multiplier](https://github.com/VectortheGreat/PDX-Modifier-Multiplier-Program)|Program that multiplies Modifiers for PDX games| ![NodeJS](https://img.shields.io/badge/NodeJS-black?style=flat-square&logo=node.js&logoColor=green)|  No Demo |
 | [Github User Information](https://github.com/VectortheGreat/Github-User-Information)|Fetches Github User Informations| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)| [Demo](https://github-fetch-user-info-demo.netlify.app/) |
 | [Currency Converter](https://github.com/VectortheGreat/Currency-Converter)|Foreign exchange site that converts currencies worldwide| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)| [Demo](https://currency-project-vector.netlify.app/) |
 | [Music Player](https://github.com/VectortheGreat/Music-Player)|Basic Music Player Website| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)| [Demo](https://music-player-vector.netlify.app/) |
-| [Country-Info](https://github.com/VectortheGreat/Country-Info)|Fetches Country Informations| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)|[Demo](https://github.com/VectortheGreat/Country-Info) |
+| [Country-Info](https://github.com/VectortheGreat/Country-Info)|Fetches Country Informations| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)|[Demo](https:/country-info-vector.netlify.app/) |
 | [Weather App](https://github.com/VectortheGreat/Weather-App)|Weather App with Api Service| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)|[Demo](https://weather-app-vector.netlify.app/) |
 | [Color Flipper](https://github.com/VectortheGreat/Color-Flipper)|Random Color Returns| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)|[Demo](https://color-flipper-vector.netlify.app/) |
 | [Quiz Website](https://github.com/VectortheGreat/Quiz-Website)|Basic Quiz Website| ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow)|[Demo](https://quiz-project-vector.netlify.app/) |
