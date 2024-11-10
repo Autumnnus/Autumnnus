@@ -5,16 +5,26 @@
 
 </p>
 
-* 👋 Welcome to my GitHub profile! I am a Front-end Web Developer.
+* 👋 Welcome to my GitHub profile! I am a Full-Stack Developer.
 
-* 📖 I specialize in HTML, CSS, JavaScript, Typescript, React, Redux, and ExpressJS, and have experience working with a variety of frameworks and databases.
+* 📖 I specialize in  JavaScript, Typescript, React, Java, Spring Boot and ExpressJS, and have experience working with a variety of frameworks and databases.
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently, I am specializing in React, Next.JS, and ExpressJS and developing projects about it.
+* 💻 Currently, I am specializing in React, Node.JS, Spring Boot and developing projects about it.
 
 ### 🖥️ Open-Source Projects
-#### <p align="center">React-Redux Toolkit Projects</p>
+
+#### <p align="center">Backend Projects</p>
+  
+| **Title** | **Description** | **Technologies** | **Demo Links** |
+| --- | --- | --- | --- |
+| [Gallerist](https://github.com/VectortheGreat/gallerist)|Gallerist Application with Java Spring Boot| ![Java](https://img.shields.io/badge/Java-black?style=flat&logo=coffeescript&logoColor=Orange) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=flat&logo=spring&logoColor=green) ![Postgresql](https://img.shields.io/badge/Postgresql-black?style=flat&logo=postgresql&logoColor=Blue&color=black) | No Demo |
+| [Spring Boot Tutorials](https://github.com/VectortheGreat/spring-boot-tutorials)|Multi Tutorial Projects for Java Spring Boot| ![Java](https://img.shields.io/badge/Java-black?style=flat&logo=coffeescript&logoColor=Orange) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=flat&logo=spring&logoColor=green) ![Postgresql](https://img.shields.io/badge/Postgresql-black?style=flat&logo=postgresql&logoColor=Blue&color=black) | No Demo |
+| [My Games - Backend](https://github.com/VectortheGreat/my-games-backend)|Backend application for my games with MongoDB database | ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript&logoColor=blue) ![Express JS](https://img.shields.io/badge/ExpressJS-black?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=green) ![AWS](https://img.shields.io/badge/Amazon%20Web%20Service-orange?logo=amazonwebservices&logoColor=orange&color=black) ![IGDB](https://img.shields.io/badge/IGDB-white?logo=igdb&logoColor=white&color=purple)| No Demo |
+| [Q&A Rest Api](https://github.com/VectortheGreat/Question-Answer-Rest-Api)|Basic Backend Project with Express JS and MongoDB | ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Express JS](https://img.shields.io/badge/ExpressJS-black?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=green)| No Demo |
+
+#### <p align="center">Frontend React Projects</p>
 | **Title** | **Description** | **Technologies** | **Demo Links** |
 | --- | --- | --- | --- |
 | [My Games](https://github.com/VectortheGreat/my-games) | A website where players can store their game data(Refactored) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=blue) ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript&logoColor=blue) ![Material UI](https://img.shields.io/badge/Material%20UI-white?style=flat&logo=MUI) | [Demo](https://my-games.netlify.app/) |
@@ -28,12 +38,6 @@
 | [Product App](https://github.com/VectortheGreat/Product-App) | Similar to TODO app project but it is Product editing | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=blue) ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=purple) | [Demo](https://product-app-vector.netlify.app/) |
 | [E-Commerce](https://github.com/VectortheGreat/E-Commerce-React-Redux-) | E-commerce site that allows shopping with Fakestore Api | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=blue) ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=purple) | [Demo](https://e-commerce-vector-shop.netlify.app/) |
 
-#### <p align="center">Express JS/MongoDB - Backend</p>
-  
-| **Title** | **Description** | **Technologies** | **Demo Links** |
-| --- | --- | --- | --- |
-| [My Games - Backend](https://github.com/VectortheGreat/my-games-backend)|Backend application for my games with MongoDB database | ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=typescript&logoColor=blue) ![Express JS](https://img.shields.io/badge/ExpressJS-black?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=green) ![AWS](https://img.shields.io/badge/Amazon%20Web%20Service-orange?logo=amazonwebservices&logoColor=orange&color=black) ![IGDB](https://img.shields.io/badge/IGDB-white?logo=igdb&logoColor=white&color=purple)| No Demo |
-| [Q&A Rest Api](https://github.com/VectortheGreat/Question-Answer-Rest-Api)|Basic Backend Project with Express JS and MongoDB | ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=yellow) ![Express JS](https://img.shields.io/badge/ExpressJS-black?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=green)| No Demo |
 
 #### <p align="center">Javascript Projects</p>
   
@@ -56,6 +60,12 @@
 <summary>📊 GitHub Stats:</summary>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VectorTheGreat&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VectorTheGreat&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VectorTheGreat&theme=onedark)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VectorTheGreat&theme=radical" width="100%" />
+
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img style="width: 49%; height: 200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vectorthegreat&theme=radical&border_color=14132100&layout=compact" />
+  <img style="width: 49%; height: 200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&border_color=14132100" />
+</p>
+
+
+
