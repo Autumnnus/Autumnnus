@@ -63,8 +63,8 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VectorTheGreat&theme=radical" width="100%" />
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img style="width: 49%; height: 200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VectorTheGreat&theme=radical&border_color=14132100&layout=compact" />
-  <img style="width: 49%; height: 200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=VectorTheGreat&show_icons=true&theme=radical&border_color=14132100" />
+    <img style="width: 49%; height: 200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vectorthegreat&theme=radical&show_icons=true&hide_border=true&layout=compact" />
+    <img style="width: 49%; height: 200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=VectorTheGreat&show_icons=true&theme=radical&border_color=14132100" />
 </p>
 
 
